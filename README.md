@@ -1,6 +1,8 @@
 # Interactive visualizations in Python
 
-View the interactive notebook [here](https://notebooks.azure.com/olisteadman/projects/2018-data-access).
+View the interactive notebook [here](https://notebooks.azure.com/olisteadman/projects/2018-data-access). Below are some selections take from it:
+
+![title](https://github.com/olisteadman/intviz/blob/adding-a-GIF/ezgif.com-crop%20(1).gif)
 
 *(Thanks must go to Azure Notebooks, an incredible hosted service for [Jupyter Notebooks](#jupyter) that required no installation! It enabled me to get started quickly on prototyping this project/idea, and allows you the viewer to combine explicit **code insight** with **tactile interactive widgets**, all in a single browser page. Try Azure Notebooks for yourself, and you'll find you're hosting your precious .ipynb files in about thirty seconds flat! Azure 1, GCP 0, AWS 0)*
 
